@@ -23,7 +23,7 @@ I have experience building full stack applications on JavaScript and Python.
 #### Check out my personal website and let's connect.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-guitart-a950ab63/)
-![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/joaquin-guitart)
 
 
 <span>![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=jaguitart&show_icons=true&title_color=6c9df3&icon_color=f1e05a&text_color=38bdad&bg_color=1a1b27)</span>
