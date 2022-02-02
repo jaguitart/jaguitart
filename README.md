@@ -25,15 +25,9 @@ I have experience building full stack applications on JavaScript and Python.
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)
 
-<table>
-  <tbody>
-    <tr valign="top">
-  <td width="25%" align="center">
-  ![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=jaguitart&show_icons=true&title_color=6c9df3&icon_color=f1e05a&text_color=38bdad&bg_color=1a1b27)
-    </td>
-  <td width="25%" align="center">
-  <span align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguitart&langs_count=10&theme=tokyonight&layout=compact" alt="jaguitart :: Top Langs" /> 
-</td>
-    </tr>
-      </tbody>
-</table>
+
+<span>![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=jaguitart&show_icons=true&title_color=6c9df3&icon_color=f1e05a&text_color=38bdad&bg_color=1a1b27)</span>
+
+<span align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguitart&langs_count=10&theme=tokyonight&layout=compact" alt="jaguitart :: Top Langs" /> 
+
+  
