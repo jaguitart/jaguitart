@@ -1,6 +1,6 @@
 ### Hi, I'm Joaquin 😃 
 
-I'm a Software Engineer with a background in Construction Enginer. Originally from Chile (:chile:), :round_pushpin: living in CA, USA.
+I'm a Software Engineer :computer: with a background in Construction Enginer :building_construction:. Originally from Chile (:chile:), :round_pushpin: living in CA, USA.
 I have experience building full stack applications on JavaScript and Python.
 
 #### Lenguages & Tools
