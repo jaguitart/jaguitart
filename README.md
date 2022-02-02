@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguitart&langs_count=10&theme=tokyonight&layout=compact" alt="jaguitart :: Top Langs" /></p>
 
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=jaguitart&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=1a1b27)
+![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=jaguitart&show_icons=true&title_color=6c9df3&icon_color=f1e05a&text_color=38bdad&bg_color=1a1b27)
