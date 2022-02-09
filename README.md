@@ -25,9 +25,14 @@ I have experience building full stack applications on JavaScript and Python.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-guitart-a950ab63/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/joaquin-guitart)
 
+<details>
+  <summary>:star2: GitHub Stats & Most Used Lenguages</summary>
 
-<span>![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=jaguitart&show_icons=true&title_color=6c9df3&icon_color=f1e05a&text_color=38bdad&bg_color=1a1b27)</span>
+  <img align="center" alt="Joaquin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jaguitart&show_icons=true&hide_border=true&title_color=6c9df3&icon_color=f1e05a&text_color=38bdad&bg_color=1a1b27" />
+  
+<img align="center" alt="Joaquin's Most Used Lenguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguitart&langs_count=10&theme=tokyonight&layout=compact&hide_border=true&title_color=6c9df3&icon_color=f1e05a&text_color=38bdad&bg_color=1a1b27"/> 
 
-<span align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguitart&langs_count=10&theme=tokyonight&layout=compact" alt="jaguitart :: Top Langs" /> 
+</details>  
+
 
   
