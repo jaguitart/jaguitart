@@ -1,7 +1,10 @@
-### Hi, I'm Joaquin 😃 
+### Hi, I'm Joaquin 
 
-I'm a Solutions Engineer :computer: with a background in Construction Engineer :building_construction:. Originally from Chile (:chile:), :round_pushpin: living in CA, USA.
-I have experience building full stack applications on JavaScript and Python.
+Implementations Engineer Team Lead :computer: with a background in Construction Engineering and Real Estate Development :building_construction:, now focused on technical onboarding and data integrations for municipalities and water utilities.
+
+I lead cross-functional implementations of SaaS solutions for 100+ clients, managing ETL pipelines, system integrations, and workflow automations using Python, JavaScript, and cloud platforms. I build internal tools to streamline onboarding, forecasting, and reporting, helping Sales, Customer Success, and Operations teams work faster with cleaner data.
+
+Previously managed large-scale construction projects, applying Excel, Power BI, and BIM to optimize operations, bringing a pragmatic, outcome-driven approach to tech. I thrive at the intersection of systems, data, and people, delivering scalable, automated solutions that drive results.
 
 #### Lenguages & Tools
 
